@@ -92,9 +92,8 @@ All the above options work well together.
 
 ## Authors
 
-yeabtakele
-Mohammed
-
+yeabtakele & 
+Mohammed :Abdo
 
 
 
